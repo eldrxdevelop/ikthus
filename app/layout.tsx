@@ -1,6 +1,5 @@
 import type { Metadata } from "next"
 import { Josefin_Sans } from "next/font/google"
-import { auth0 } from "@/lib/auth0"
 import './globals.css'
 
 const josefinSans = Josefin_Sans({
